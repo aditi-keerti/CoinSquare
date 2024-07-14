@@ -4,7 +4,7 @@ Coinsquare is a cryptocurrency trading platform that provides real-time data for
 
 ## Overview
 
-Coinsquare is designed to offer a comprehensive cryptocurrency trading experience. Users can access real-time pricing details, trade cryptocurrencies, manage their user profiles, and receive assistance through an integrated ChatGPT-powered chatbot. The platform also ensures security with features such as OTP verification and password change.
+Coinsquare designed to offer a comprehensive cryptocurrency trading experience. Users can access real-time pricing details, trade cryptocurrencies, manage their user profiles, and receive assistance through an integrated ChatGPT-powered chatbot. The platform also ensures security with features such as OTP verification and password change.
 
 ## Features
 
